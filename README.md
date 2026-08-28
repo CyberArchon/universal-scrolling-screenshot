@@ -12,7 +12,7 @@ It can also extract supported tables directly to **CSV** or **Excel (.xlsx)**, u
 
 **Version:** 1.0
 
-> **Chrome Web Store:** [Install Universal Scrolling Screenshot](CHROME_WEB_STORE_URL_PLACEHOLDER)
+> **Chrome Web Store:** [Install Universal Scrolling Screenshot](https://chromewebstore.google.com/detail/universal-scrolling-scree/nfjelpifbaainmjejfpacgeaefjialdi)
 
 _The Chrome Web Store URL will be added here after publication._
 
